@@ -60,7 +60,7 @@ Wang et al. 2013: the influence of assembly bias on galaxy clustering is analyse
 Wang et al. 2017: The galaxy population in cold and warm dark matter cosmologies. 
 We combine a pair of high-resolution N-body simulations implementing the standard cold dark matter (CDM) cosmogony and a warm dark matter (WDM) alternative where the dark matter particle is a 1.5 keV thermal relic, with the GALFORM semi-analytical galaxy formation model to explore differences between the resulting galaxy populations. The only significant difference in the local universe we find is in the galaxy populations of ‘Local Volumes’, regions of radius 1–8 Mpc around simulated Milky Way analogues. In such regions, our WDM model provides a better match to observed local galaxy number counts and is five times more likely than the CDM model to predict subregions within them that are as empty as the observed Local Void. Thus, a highly complete census of the Local Volume and future surveys of void regions could provide constraints on the nature of dark matter.
 
-Wang et al. 2019a: comparing galaxy morphology in hydrodynamical simulation and in semi-analytic model.
+[Wang et al. 2019a](https://ui.adsabs.harvard.edu/abs/2019MNRAS.485.2083W/abstract): comparing galaxy morphology in hydrodynamical simulation and in semi-analytic model.
 
 Models on statistical relations between galaxy and (sub)halo
 -----
