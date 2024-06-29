@@ -12,7 +12,7 @@ My research interests are galaxy formation and evolution, including related mode
 
 Galaxy morphology 
 ======
-Based on a wrok of comparing galaxy morphology in Illustris simulation and semi-analytic models, we further explore the formation of massive disc galaxies, and the formation of low-mass galaxies with different morphologies in TNG simulation. In addition, an observaional work is done which study the HI content of massive red spirals using the FAST radio telescope.
+Based on a wrok of comparing galaxy morphology in Illustris simulation and semi-analytic models, we further explore the formation of massive disc galaxies, and the formation of low-mass galaxies with different morphologies in TNG simulation. In addition, an observaional work is done which studies the HI content of massive red spirals using the FAST radio telescope.
 
 - [Wang et al. 2019c](https://ui.adsabs.harvard.edu/abs/2019MNRAS.485.2083W/abstract): comparing galaxy morphology in hydrodynamical simulation Illustris and in semi-analytic model.
 
