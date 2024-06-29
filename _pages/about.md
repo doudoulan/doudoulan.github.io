@@ -35,6 +35,8 @@ A methodology was developed that falls midway between the traditional semi-analy
 - Wang et al. 2007: star formtion histories of central and satellite galaxies are further modelled and constrained, by fitting the observed abundances and projected correlations of galaxies as a function of 4000-Å break strength/g-r color in the SDSS.
   
 - Wang & Jing 2010: applied to redshift of around 0.8, the stellar mass - halo mass relation is constrained by fitting both the stellar mass function and the correlation functions at different stellar mass intervals of VVDS observations. A unified model of the stellar mass - halo mass relation as a function of time is also proposed, by fitting both SDSS and VVDS observations simultaneously.
+  
+- Wang 2017 (in Chinese): a review on models that link galaxies with (sub)haloes, which study the relation between galaxy properties and (sub)halo properties in a statistical way. 
 
 
 Create content & metadata
