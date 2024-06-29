@@ -10,14 +10,34 @@ redirect_from:
 I am a staff at National Astronomical Observatories, Chinese Academy of Sciences.
 My research interests are galaxy formation and evolution, including related models, simulations and observations. In recent years, my works mainly focus on topics of galaxy morphology and galactic bulges, both from simulation point of view and from observational statistics. 
 
-Galaxy morphology in general
+Galaxy morphology 
 ======
 
+Wang et al. 2019c: comparing galaxy morphology in hydrodynamical simulation Illustris and in semi-analytic model.
+By comparing in detail the growth histories of some matched galaxy pairs of Milky Way mass in Illustris and the SAM model, we notice two aspects of differences in determining galaxy morphology between the two galaxy formation implementations. First, in the SAM, major merger and frequent minor mergers result in the growth of bulges and turn the galaxy into ET, while bulge formation is not connected to mergers as tightly as in SAM for the Illustris galaxies. In addition, the satellite stellar mass can decrease significantly due to tidal stripping before merging into the central galaxy in Illustris, while it does not decrease in the SAM model. This results in less mergers with large (stellar) mass ratios in the Illustris simulation, and less effect of mergers on shaping galaxy morphology.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Zeng, Wang & Gao 2021: formation of massive disc galaxies in the IllustrisTNG simulation.
+We investigate the formation history of massive disc galaxies in hydrodynamical simulation – the IllustrisTNG, to study why massive disc galaxies survive through cosmic time. We find that 8.4 per cent of these massive disc galaxies have quiet merger histories and preserve disc morphology since formed. 54.2 per cent have a significant increase in bulge components in history, then become discs again till present time. The rest 37.3 per cent experience prominent mergers but survive to remain discy. While mergers and even major mergers do not always turn disc galaxies into ellipticals, we study the relations between various properties of mergers and the morphology of merger remnants. We find a strong dependence of remnant morphology on the orbit type of major mergers. Specifically, major mergers with a spiral-in falling orbit mostly lead to disc-dominant remnants, and major mergers of head-on galaxy–galaxy collision mostly form ellipticals. This dependence of remnant morphology on orbit type is much stronger than the dependence on cold gas fraction or orbital configuration of merger system as previously studied.
+
+Zeng, Wang et al. 2024: Kinematic morphology of low-mass galaxies in IllustrisTNG.
+The origin of diverse kinematic morphologies observed in low-mass galaxies is unclear. In this study, we investigate the kinematic morphologies of central galaxies with stellar mass 108.5−9.0𝑀⊙ at 𝑧 = 0 in the TNG50-1 cosmological simulation. The majority of the low-mass galaxies in TNG50-1 are dispersion-dominated, consistent with observations. By tracing the evolutionary histories of simulated low-mass galaxies, we find that while most stars form in rotating cold gas discs, the orientation of the star-forming discs relative to the galaxies may evolve with cosmic time. If the cold gas disc remains aligning with the galaxy during its evolution, stars formed at different times share the same rotational direction, leading to a rotation-dominated system. On the contrary, frequent misalignment of cold gas disc would result in a dispersion-dominated system. In addition, we also find that the two-body scattering can have a non-negligible numerical heating effect on the simulated galaxy morphology, especially at central regions of galaxies and for relatively low-mass galaxies. By comparing results of simulations with different resolutions, our results suggest that the simulated morphology of galaxies is reliable when their number of stellar particles exceeds about
+10,000, and bulge morphology of galaxies can not be resolved robustly at the resolution level of TNG50-1.
+
+Wang et al. 2022: HI content of massive red spiral galaxies observed by FAST.
+We observe H I content of the rest 113 massive red spiral galaxies using the FAST telescope. 75 of the 113 galaxies have H I detection with a signal-to-noise ratio (S/N) greater than 4.7. Compared with the red spirals in the same sample that have been observed by the ALFALFA survey, galaxies observed by FAST have on average a higher S/N, and reach to a lower H I mass. To investigate why many red spirals contain a significant amount of HI mass, we check colour profiles of the massive red spirals using images observed by the DESI Legacy Imaging Surveys. We find that galaxies with H I detection have bluer outer discs than the galaxies without H I detection, for both ALFALFA and FAST samples. For galaxies with H I detection, there exists a clear correlation between galaxy H I mass and g-r colour at outer radius: galaxies with higher H I masses have bluer outer discs. The results indicate that optically selected massive red spirals are not fully quenched, and the H I gas observed in many of the galaxies may exist in their outer blue discs.
 
 Galactic bulges
 ======
+
+Wang et al. 2019b: The clustering of galaxies with pseudo-bulge and classical bulge in the local Universe.
+We investigate the clustering properties and close neighbour counts for galaxies with different
+types of bulges and stellar masses. We find that neither the presence of a central bulge, nor the bulge type
+is related to intermediate-to-large scale environments. On smaller scales, pseudo bulge  and pure-disc galaxies similarly show strong excess in close neighbour count when compared to control galaxies, at all masses probed. For classical bulges, small-scale excess is also observed but only for Mstars < 10^10 Msun. These results imply strong connections between galactic bulges and galaxy–galaxy interactions in the local Universe, although it is unclear
+how they are physically linked in the current theory of galaxy formation.
+
+Hu, Wang et al. 2024: Resolved properties of classical bulge and pseudo-bulge galaxies.
+We compare properties of classical and pseudo-bulges and properties of their hosting galaxies selected from the MaNGA survey. Our results show that at given stellar mass, disc components of pseudo-bulge galaxies are younger, have more active star formation, rotate more, and may contain more H I content compared with those of classical bulge galaxies, and the differences are larger than those between bulges themselves. The correlations between bulge types and disc properties indicate that different types of bulges are shaped by different processes that may regulate both growth of central components and evolution of outer discs in galaxies. 
+
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
@@ -25,6 +45,22 @@ Galactic bulges
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
+
+
+Comparison and degenereacy of galaxy formation models
+------
+
+Wang, Weinmann & Neistein 2012: we explore modifications to the SF law as an alternative solution of very efficient supernova feedback in semi-analytic models, to achieve a match to the low-mass end of galaxy stellar mass function. Our best model includes lower SF efficiencies than predicted by the Kennicutt–Schmidt law at low stellar masses, no sharp threshold of cold gas mass for SF and an SF law that is independent of cosmic time, and give a good match to the observed autocorrelation function of galaxies, an evolution of the stellar mass function from z = 3 to z = 0 similar to observations and better agreement with observed specific SF rates. 
+
+Wang, De Lucia & Weinmann 2013: on the scatter in the stellar mass - halo mass relation.
+The detail of how galaxies populate the scatter in the stellar mass–halo mass relation does play an important role in determining the correlation functions of galaxies. While the stellar mass of galaxies in the Wang et al. model depends only on halo mass and is randomly distributed within the scatter, galaxy stellar mass depends also on the halo formation time in semi-analytical models. At fixed value of infall mass, galaxies that have larger stellar mass reside in haloes that formed earlier. This effect is much stronger in Guo11 than in DLB07, which explains the overclustering of low mass galaxies in Guo11. Assembly bias in Guo11 model might be overly strong. Nevertheless, in case that a significant assembly bias indeed exists in the real Universe, one needs to use caution when applying current HOD and abundance matching models that employ the assumption of random scatter in the relation between stellar and halo mass.
+
+Wang et al. 2013: the influence of assembly bias on galaxy clustering is analysed using both semi-analytic galaxy formation models (SAMs) and observational data. At fixed stellar mass, SAMs predict that the clustering of central galaxies depends on the specific star formation rate, with more passive galaxies having a higher clustering amplitude. We find similar trends using the SDSS group catalogues. The clustering dependence on sSFR represent a direct detection of assembly bias. 
+
+Wang et al. 2017: The galaxy population in cold and warm dark matter cosmologies. 
+We combine a pair of high-resolution N-body simulations implementing the standard cold dark matter (CDM) cosmogony and a warm dark matter (WDM) alternative where the dark matter particle is a 1.5 keV thermal relic, with the GALFORM semi-analytical galaxy formation model to explore differences between the resulting galaxy populations. The only significant difference in the local universe we find is in the galaxy populations of ‘Local Volumes’, regions of radius 1–8 Mpc around simulated Milky Way analogues. In such regions, our WDM model provides a better match to observed local galaxy number counts and is five times more likely than the CDM model to predict subregions within them that are as empty as the observed Local Void. Thus, a highly complete census of the Local Volume and future surveys of void regions could provide constraints on the nature of dark matter.
+
+Wang et al. 2019a: comparing galaxy morphology in hydrodynamical simulation and in semi-analytic model.
 
 Models on statistical relations between galaxy and (sub)halo
 -----
@@ -39,14 +75,6 @@ A methodology was developed that falls midway between the traditional semi-analy
 - Wang 2017 (in Chinese): a review on models that link galaxies with (sub)haloes, which study the relation between galaxy properties and (sub)halo properties in a statistical way. 
 
 
-Comparison and degenereacy of galaxy formation models
-------
-
-Wang, De Lucia & Weinmann 2013:
-
-Wang et al. 2013:
-
-Wang, Weinmann & Neistein 2012:
 
 For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
