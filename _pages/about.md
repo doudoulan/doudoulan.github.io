@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a staff at National Astronomical Observatories, Chinese Academy of Sciences.
+I am a staff at NAOC, Chinese Academy of Sciences.
 My research interests are galaxy formation and evolution, including related models, simulations and observations. In recent years, my works mainly focus on topics of galaxy morphology and galactic bulges, both from simulation point of view and from observational statistics. 
 
 Galaxy morphology 
