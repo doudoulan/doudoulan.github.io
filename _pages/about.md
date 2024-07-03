@@ -76,4 +76,4 @@ For more info
 ------
 My papers can be found in [ads](https://ui.adsabs.harvard.edu/user/libraries/CLDHV3HURBuQmXl-tCvIpQ). 
 
-E-mail:wanglan@bao.ac.cn
+E-mail: wanglan@bao.ac.cn
