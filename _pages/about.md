@@ -12,11 +12,12 @@ wanglan@bao.ac.cn
 I am an associate researcher at National Astronomical Observatories, Chinese Academy of Sciences (NAOC).
 My research interests are galaxy formation and evolution, including related models, simulations and observations. In recent years, my works mainly focus on topics of galaxy morphology and galactic bulges, both from simulation point of view and from observational statistics. 
 
-Research
+
+Research:
 ======
 
 Galaxy morphology 
-------
+-----
 Based on a wrok of comparing galaxy morphology in Illustris simulation and semi-analytic models, we further explore the formation of massive disc galaxies, and the formation of low-mass galaxies with different morphologies in TNG simulation. In addition, an observaional work is done which studies the HI content of massive red spirals using the FAST radio telescope.
 
 - [Wang et al. 2019c](https://ui.adsabs.harvard.edu/abs/2019MNRAS.485.2083W/abstract): comparing galaxy morphology in hydrodynamical simulation Illustris and in semi-analytic model.
