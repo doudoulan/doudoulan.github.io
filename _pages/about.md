@@ -9,7 +9,7 @@ redirect_from:
 
 wanglan@bao.ac.cn
 
-I am a staff at National Astronomical Observatories, Chinese Academy of Sciences (NAOC).
+I am an associate researcher at National Astronomical Observatories, Chinese Academy of Sciences (NAOC).
 My research interests are galaxy formation and evolution, including related models, simulations and observations. In recent years, my works mainly focus on topics of galaxy morphology and galactic bulges, both from simulation point of view and from observational statistics. 
 
 Galaxy morphology 
