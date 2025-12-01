@@ -100,6 +100,10 @@ Science Outreach
 -《光速声波物理学》保罗.休伊特 著；王岚 译   2025
 
 
+国家天文台公众号 轮值主编 2018-2025
+《Inquiries of Heaven ( 天 问 )》- the official newspaper of the IAU General Assembly 2012, Secretary
+
+
 
 For more info
 ------
