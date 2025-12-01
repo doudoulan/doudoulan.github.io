@@ -79,9 +79,9 @@ Star formtion histories of central and satellite galaxies are further modelled a
 
 Teaching:
 ======
-《Fundamentals of Modern Astronomy》 Graduate course of International College, University of Chinese Academy of Sciences; Instructors: Lijun Gou, Lan Wang 2018- 
+-《Fundamentals of Modern Astronomy》 Graduate course of International College, University of Chinese Academy of Sciences; Instructors: Lijun Gou, Lan Wang 2018- 
 
-《基础天文学》 中国科学院大学天文学院本科生课程； 李然，王岚 主讲 2019-2023
+-《基础天文学》 中国科学院大学天文学院本科生课程； 李然，王岚 主讲 2019-2023
 
 Science Outreach:
 ======
