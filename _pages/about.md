@@ -83,6 +83,15 @@ Teaching:
 
 -《基础天文学》 中国科学院大学天文学院本科生课程； 李然，王岚 主讲 2019-2023
 
+
+Student Supervision:
+======
+Current graduate student：Hongxu Han
+PhD: Guangquan Zeng (2018-2024); Jia Hu (2019-2025)
+
+Undergraduates and post‑graduation: Bingqing Sun (2014-2016); Haoyue Wang (2018-2019); Yahan Pu (2024-2025)
+
+
 Science Outreach:
 ======
 -《万物皆有理 天文中的物理》 冯麓，王岚，苟利军 著    2023，2024
