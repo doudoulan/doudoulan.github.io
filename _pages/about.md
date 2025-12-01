@@ -13,10 +13,10 @@ I am an associate researcher at National Astronomical Observatories, Chinese Aca
 My research interests are galaxy formation and evolution, including related models, simulations and observations. In recent years, my works mainly focus on topics of galaxy morphology and galactic bulges, both from simulation point of view and from observational statistics. 
 
 Research
-------
+======
 
 Galaxy morphology 
-======
+------
 Based on a wrok of comparing galaxy morphology in Illustris simulation and semi-analytic models, we further explore the formation of massive disc galaxies, and the formation of low-mass galaxies with different morphologies in TNG simulation. In addition, an observaional work is done which studies the HI content of massive red spirals using the FAST radio telescope.
 
 - [Wang et al. 2019c](https://ui.adsabs.harvard.edu/abs/2019MNRAS.485.2083W/abstract): comparing galaxy morphology in hydrodynamical simulation Illustris and in semi-analytic model.
@@ -32,7 +32,7 @@ If the cold gas disc remains aligning with the galaxy during its evolution, star
 We observe H I content of the rest 113 massive red spiral galaxies using the FAST telescope. Galaxies with higher HI masses have bluer outer discs. Optically selected massive red spirals are not fully quenched, and the HI gas observed in many of the galaxies may exist in their outer blue discs.
 
 Galactic bulges
-======
+------
 Observations indicate that there are two main categories of bulges: classical bulges and pseudo-bulges. We perform studies of clustering and neighbor counts of galaxies with different types of bulges, to invesitgate the environment that may affect the formation of bulges. We also compare properties of classical and pseudo-bulges and properties of their hosting galaxies to dig more their possible formation paths.
 
 - [Wang et al. 2019b](https://ui.adsabs.harvard.edu/abs/2019MNRAS.484.3865W/abstract): 
@@ -44,7 +44,7 @@ is related to intermediate-to-large scale environments. On smaller scales, pseud
 resolved properties of classical and pseudo-bulges and properties of their hosting galaxies selected from the MaNGA survey. At given stellar mass, disc components of pseudo-bulge galaxies are younger, have more active star formation, rotate more, and may contain more H I content compared with those of classical bulge galaxies, and the differences are larger than those between bulges themselves. Different types of bulges are shaped by different processes that may regulate both growth of central components and evolution of outer discs in galaxies. 
 
 Comparison and degenereacy of galaxy formation models
-======
+------
 The current models of galaxy formation and evolution have achieved many successes. However, the detail descriptions on different physical processes still have a lot of uncertainties, and degeneracies exist among these processes in reproducing observational statistics of galaxies. For example, for semi-analytic galaxy formation models, modification to the star formation law has similar effect as increasing supernovae feedback, in suppressing star formation in low mass galaxies in low redshift to match observation. Even when the relations between galaxy stellar mass and its host dark matter halo mass in different models show the same median relation, how galaxies populate the scatters of the relation can result to different galaxy clustering properties, due to the detail dependence of galaxy stellar mass on halo formation time. Apart from the degeneracies of physical processes, cosmology also adds degeneracy in the picture of galaxy formation. Warm dark matter and cold dark matter cosmologies result to similar galaxy properties of many aspects that are difficult to be distinguished within current observational accuracy.
 
 - [Wang, Weinmann & Neistein 2012](https://ui.adsabs.harvard.edu/abs/2012MNRAS.421.3450W/abstract): A modified star formation law as a solution to open problems in galaxy evolution.
@@ -64,7 +64,7 @@ We study the shape and evolution of the star formation main sequence, and in par
 - [Wang et al. 2019c](https://ui.adsabs.harvard.edu/abs/2019MNRAS.485.2083W/abstract): comparing galaxy morphology in hydrodynamical simulation and in semi-analytic model.
 
 Models on statistical relations between galaxy and (sub)halo
-======
+------
 A methodology was developed that falls midway between the traditional semi-analytic approach and the halo occupation distribution (HOD) approach. In our models, the positions and velocities of the galaxies are predicted by following the orbits and merging histories of the substructures in simulation. Parametrized functions are modelled to relate galaxy properties to the halo mass at infall time. A series of works have been done based on this method.
 
 - [Wang et al. 2006](https://ui.adsabs.harvard.edu/abs/2006MNRAS.371..537W/abstract): relations between the luminosities and the stellar masses of galaxies in the local Universe and their host halo masses are constrained, by fitting the luminosity function, the stellar mass function and the shape and amplitude of the two-point correlation function evaluated in different stellar mass and luminosity ranges in SDSS.
@@ -77,13 +77,13 @@ Star formtion histories of central and satellite galaxies are further modelled a
 - [Wang 2017 (in Chinese)](https://ui.adsabs.harvard.edu/abs/2017SSPMA..47d9806W/abstract): a review on models that link galaxies with (sub)haloes, which study the relation between galaxy properties and (sub)halo properties in a statistical way. 
 
 Teaching
-------
+======
 《Fundamentals of Modern Astronomy》 Graduate course of International College, University of Chinese Academy of Sciences; Instructors: Lijun Gou, Lan Wang 2018- 
 
 《基础天文学》 中国科学院大学天文学院本科生课程； 李然，王岚 主讲 2019-2023
 
 Science Outreach
-------
+======
 -《万物皆有理 天文中的物理》 冯麓，王岚，苟利军 著    2023，2024
 
 -《星际穿越》 基普.索恩 著； 苟利军，王岚，李然 等 译   2015
@@ -108,7 +108,7 @@ Science Outreach
 
 
 For more info
-------
+======
 My papers can be found in [ads](https://ui.adsabs.harvard.edu/user/libraries/CLDHV3HURBuQmXl-tCvIpQ). 
 
 E-mail: wanglan@bao.ac.cn
