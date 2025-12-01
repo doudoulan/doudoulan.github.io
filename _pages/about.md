@@ -77,13 +77,13 @@ Star formtion histories of central and satellite galaxies are further modelled a
   
 - [Wang 2017 (in Chinese)](https://ui.adsabs.harvard.edu/abs/2017SSPMA..47d9806W/abstract): a review on models that link galaxies with (sub)haloes, which study the relation between galaxy properties and (sub)halo properties in a statistical way. 
 
-Teaching
+Teaching:
 ======
 《Fundamentals of Modern Astronomy》 Graduate course of International College, University of Chinese Academy of Sciences; Instructors: Lijun Gou, Lan Wang 2018- 
 
 《基础天文学》 中国科学院大学天文学院本科生课程； 李然，王岚 主讲 2019-2023
 
-Science Outreach
+Science Outreach:
 ======
 -《万物皆有理 天文中的物理》 冯麓，王岚，苟利军 著    2023，2024
 
