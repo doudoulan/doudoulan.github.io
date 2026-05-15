@@ -124,6 +124,6 @@ Science Outreach:
 
 For more info
 ======
-My papers can be found in [ads](https://ui.adsabs.harvard.edu/user/libraries/CLDHV3HURBuQmXl-tCvIpQ). 
+My papers can be found in [ads](https://ui.adsabs.harvard.edu/public-libraries/CLDHV3HURBuQmXl-tCvIpQ). 
 
 E-mail: wanglan@bao.ac.cn
